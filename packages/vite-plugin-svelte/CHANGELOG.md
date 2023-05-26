@@ -1,5 +1,18 @@
 # @sveltejs/vite-plugin-svelte
 
+## 2.5.0
+
+### Minor Changes
+
+- Add support for svelte-4 prereleases ([#661](https://github.com/sveltejs/vite-plugin-svelte/pull/661))
+
+  Note: We are going to remove `^4.0.0-next` from the peerDependency range in another minor release after svelte `4.0.0` final has been released.
+
+### Patch Changes
+
+- Updated dependencies [[`f5d9bd2`](https://github.com/sveltejs/vite-plugin-svelte/commit/f5d9bd239e23a73417f684c79ba893df42440915)]:
+  - @sveltejs/vite-plugin-svelte-inspector@1.1.0
+
 ## 2.4.0
 
 ### Minor Changes
